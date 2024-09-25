@@ -1,0 +1,7 @@
+{
+  "name": "ResetApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
