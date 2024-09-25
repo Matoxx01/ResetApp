@@ -1,0 +1,54 @@
+/* Estilos generales */
+body {
+  --ion-background-color: #f4f4f4;
+  --ion-text-color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: var(--ion-text-color);
+  margin-top: 20px;
+}
+
+p {
+  text-align: center;
+  color: var(--ion-text-color);
+  padding: 10px;
+  font-size: 1.2rem;
+}
+
+/* Estilos para el menú */
+ion-menu {
+  --background: #9fc2ff;
+}
+
+ion-toolbar {
+  --background: #9fc2ff;
+  --color: #fff;
+}
+
+ion-title {
+  font-size: 1.5rem;
+}
+
+ion-item {
+  --background: transparent;
+  --color: white;
+}
+
+ion-item:hover {
+  --background: rgba(255, 255, 255, 0.1);
+}
+
+ion-label {
+  font-size: 1.2rem;
+  color: white;
+}
+
+/* Estilos para el contenido principal */
+#main-content {
+  padding: 20px;
+  background-color: white;
+  color: var(--ion-text-color);
+}
