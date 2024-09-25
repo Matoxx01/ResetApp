@@ -1,7 +1,7 @@
 /* Estilos generales */
 body {
   --ion-background-color: #f4f4f4;
-  --ion-text-color: #ffffff;
+  --ion-text-color: #333;
   font-family: Arial, sans-serif;
 }
 
@@ -20,11 +20,11 @@ p {
 
 /* Estilos para el menú */
 ion-menu {
-  --background: #9fc2ff;
+  --background: #3880ff;
 }
 
 ion-toolbar {
-  --background: #9fc2ff;
+  --background: #3880ff;
   --color: #fff;
 }
 
